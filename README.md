@@ -1,4 +1,4 @@
-# study_php
+# php
 
 /* INDEX */
 1. php Setting
